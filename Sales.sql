@@ -1,0 +1,1 @@
+SELECT * FROM Sales where productid = 20;
